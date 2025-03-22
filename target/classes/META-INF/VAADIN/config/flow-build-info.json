@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1",
+  "node.version": "v18.19.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/target/frontend",
+  "frontendFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/frontend",
+  "connect.javaSourceFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/src/main/java",
+  "javaResourceFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/src/main/resources",
+  "connect.applicationProperties": "/home/apiiit123/Pictures/dev prac/maven/aw1/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/apiiit123/Pictures/dev prac/maven/aw1/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/apiiit123/Pictures/dev prac/maven/aw1/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

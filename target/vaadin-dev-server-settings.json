@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/frontend/generated/jar-resources",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "target/classes/META-INF/VAADIN/webapp/../config/",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "jarResourcesFolder": "/home/apiiit123/Pictures/dev prac/maven/aw1/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/apiiit123/Pictures/dev prac/maven/aw1/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
